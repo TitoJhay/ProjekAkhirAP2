@@ -1,0 +1,2 @@
+# ProjekAkhirAP2
+Konci
