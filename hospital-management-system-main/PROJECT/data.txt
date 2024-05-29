@@ -1,0 +1,9 @@
+Pengeluaran,2.22222e+07,12-12-2222,woa
+Pemasukan,2.22222e+06,22-12-2003,Blyat
+Pemasukan,999999,12-12-2003,TEST
+Pemasukan,600000,12-12-2003,wowow
+Pemasukan,250005,12-12-2003,Gajian
+Pemasukan,200000,12-12-2003,Beli
+Pengeluaran,50000,23-12-2003,BELI JAJAN
+Pemasukan,20000,12-12-1222,wowowow
+Pemasukan,9999,12-12-2222,yyyy

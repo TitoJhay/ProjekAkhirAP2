@@ -1,0 +1,6 @@
+catatan terakhir
+
+bertanya ke chatgpt soal bagaimana caranya merubah kode agar saldo selalu berubah ketika ada catatanpengeluaran ataupun cataanpemasukan
+atau datasaldo selalu update. 
+
+membuat laporan
